@@ -1,0 +1,51 @@
+body {
+    background-color: #120b52;
+}
+
+ /* navbar */
+.navbar {
+    position: relative;
+}
+.navbar-brand {
+    font-family: Aloevera;
+    font-size: 50px;
+    color: #FFDDEE; /* #0E3EDA  */
+    position: absolute;
+    left: 40%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    margin-top: 5%;
+    display: block;
+}
+
+.navbar-brand:hover {
+    color: #fce6f1;
+}
+
+ /* page-content */
+ .page-content {
+    margin-top: 15%;
+ }
+
+ /* cards */
+
+.container {
+    position: absolute;
+    left: 17%;
+}
+
+.col {
+    margin: 0 0 0 0;
+}
+
+.card {
+    background-color:;
+    padding: 1.5em .5em .5em;
+    border-radius: 15em;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.card-title {
+    color: #03289e;
+    font-family: Aloevera;
+}
